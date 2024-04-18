@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.339926051555096, 45.43580555529803]
+      },
+      "properties": {
+        "nome": "Basilica di San Marco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.336085062172458, 45.43854773627551]
+      },
+      "properties": {
+        "nome": "Ponte di Rialto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.341416060288152, 45.43801029554584]
+      },
+      "properties": {
+        "nome": "Palazzo Ducale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.335048140836525, 45.431890154667926]
+      },
+      "properties": {
+        "nome": "Basilica di Santa Maria della Salute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.339497960316107, 45.438714460349566]
+      },
+      "properties": {
+        "nome": "Piazza San Marco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.325025569479505, 45.440749075922675]
+      },
+      "properties": {
+        "nome": "Scuola Grande di San Rocco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.325567124003555, 45.44225649059564]
+      },
+      "properties": {
+        "nome": "Basilica di Santa Maria Gloriosa dei Frari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.341253355629865, 45.44030429016931]
+      },
+      "properties": {
+        "nome": "Chiesa di San Zaccaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.34239603788354, 45.44537188487422]
+      },
+      "properties": {
+        "nome": "Basilica dei Santi Giovanni e Paolo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.340713095425338, 45.43461190512699]
+      },
+      "properties": {
+        "nome": "Ponte dei Sospiri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.341484078052721, 45.43517183324056]
+      },
+      "properties": {
+        "nome": "Abbazia di San Giorgio Maggiore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33251636363331, 45.43733859366562]
+      },
+      "properties": {
+        "nome": "Teatro La Fenice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.337656501078394, 45.43834267000865]
+      },
+      "properties": {
+        "nome": "Campanile di San Marco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.332892424235997, 45.44538521930318]
+      },
+      "properties": {
+        "nome": "Ca' d'Oro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33557456926605, 45.437934746850004]
+      },
+      "properties": {
+        "nome": "Chiesa Parrocchiale di San Moisè"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.328005309926182, 45.43736357774898]
+      },
+      "properties": {
+        "nome": "Palazzo Grassi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.337112755908825, 45.4442042115919]
+      },
+      "properties": {
+        "nome": "Chiesa di Santa Maria dei Miracoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.328904491922913, 45.436439174526846]
+      },
+      "properties": {
+        "nome": "Ponte dell'Accademia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.333505, 45.439989]
+      },
+      "properties": {
+        "nome": "Chiesa di San Giacomo di Rialto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.334092801349241, 45.443071506968685]
+      },
+      "properties": {
+        "nome": "Chiesa di San Pantalon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.359186669357374, 45.43896612210685]
+      },
+      "properties": {
+        "nome": "Basilica di San Pietro di Castello"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.325105, 45.433558]
+      },
+      "properties": {
+        "nome": "Chiesa di San Sebastiano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.31995439194432, 45.43607091538624]
+      },
+      "properties": {
+        "nome": "Chiesa di San Bartolomeo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.336037169484548, 45.44179612499641]
+      },
+      "properties": {
+        "nome": "Chiesa di San Salvador"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.340782492253219, 45.44191240726216]
+      },
+      "properties": {
+        "nome": "Parrocchia di Santa Maria Formosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.329111869214952, 45.437328725466244]
+      },
+      "properties": {
+        "nome": "Chiesa di San Vidal"
+      }
+    }
+  ]
+}
