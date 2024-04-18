@@ -1,6 +1,3 @@
-Ecco il file con la sintassi corretta e le parentesi sistemate:
-
-```json
 {
   "type": "FeatureCollection",
   "features": [
