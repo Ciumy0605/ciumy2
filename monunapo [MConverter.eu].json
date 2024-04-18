@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.247615125909961, 40.828453680809346]
+      },
+      "properties": {
+        "name": "Castel dell'Ovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.252762312417227, 40.83866764435822]
+      },
+      "properties": {
+        "name": "Castel Nuovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.24940269707452, 40.8364426193083]
+      },
+      "properties": {
+        "name": "Palazzo Reale di Napoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.248690385431038, 40.83599603426432]
+      },
+      "properties": {
+        "name": "Piazza del Plebiscito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.25934195474645, 40.852680830371085]
+      },
+      "properties": {
+        "name": "Duomo di Napoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.251959810567932, 40.847613520255145]
+      },
+      "properties": {
+        "name": "Chiesa del Gesù Nuovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.251814712417561, 40.847106741977896]
+      },
+      "properties": {
+        "name": "Chiesa di Santa Chiara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.254969527760322, 40.849530424553805]
+      },
+      "properties": {
+        "name": "Museo Cappella Sansevero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.250407379882978, 40.853777003646364]
+      },
+      "properties": {
+        "name": "Museo Archeologico Nazionale di Napoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.250825692576942, 40.86723052504703]
+      },
+      "properties": {
+        "name": "Museo e Real Bosco di Capodimonte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.238895763290394, 40.84516750518292]
+      },
+      "properties": {
+        "name": "Castel Sant'Elmo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.249494868238978, 40.8387500950038]
+      },
+      "properties": {
+        "name": "Galleria Umberto I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.249637797074625, 40.837663247064135]
+      },
+      "properties": {
+        "name": "Teatro di San Carlo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.258446926986046, 40.855147478435775]
+      },
+      "properties": {
+        "name": "Museo Madre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.229106812417347, 40.84257906788594]
+      },
+      "properties": {
+        "name": "Villa Floridiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.247630355784041, 40.83548888069516]
+      },
+      "properties": {
+        "name": "Basilica Reale Pontificia San Francesco da Paola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.248693598924191, 40.83999254078864]
+      },
+      "properties": {
+        "name": "Palazzo Zevallos Stigliano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.240671937553856, 40.84382762846982]
+      },
+      "properties": {
+        "name": "Certosa di San Martino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.246292183581458, 40.83564984850174]
+      },
+      "properties": {
+        "name": "Galleria Borbonica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.259512705489117, 40.85269331474792]
+      },
+      "properties": {
+        "name": "Museo del Tesoro di San Gennaro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.257491095225483, 40.85075351058069]
+      },
+      "properties": {
+        "name": "Basilica di San Lorenzo Maggiore"
+      }
+    }
+  ]
+}
