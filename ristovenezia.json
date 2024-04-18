@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.339515746753484, 45.44182121504783]
+      },
+      "properties": {
+        "nome": "Osteria alle Testiere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.330123269308679, 45.43864098655737]
+      },
+      "properties": {
+        "nome": "Bacaro e Trattoria da Fiore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.330762969598336, 45.44271803304037]
+      },
+      "properties": {
+        "nome": "Antiche Carampane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.346255401080189, 45.438854168357565]
+      },
+      "properties": {
+        "nome": "Al Covo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33507699212766, 45.439109194921144]
+      },
+      "properties": {
+        "nome": "Ai Mercanti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.336999046756167, 45.44234768203127]
+      },
+      "properties": {
+        "nome": "Alle Corone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.321323046371312, 45.43548825570496]
+      },
+      "properties": {
+        "nome": "Ristorante Riviera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.328153369731613, 45.445649088227]
+      },
+      "properties": {
+        "nome": "Osteria La Zucca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.328951115559462, 45.45045387162448]
+      },
+      "properties": {
+        "nome": "Osteria Anice Stellato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.33475474660785, 45.43964881749064]
+      },
+      "properties": {
+        "nome": "Ristorante Da Ivo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.337460446590713, 45.44008772961788]
+      },
+      "properties": {
+        "nome": "Ristorante Quadri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.335442092353246, 45.44356986575201]
+      },
+      "properties": {
+        "nome": "Osteria Bancogiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.345403814911666, 45.44044323269378]
+      },
+      "properties": {
+        "nome": "Trattoria da Remigio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.32614689182916, 45.43488540716832]
+      },
+      "properties": {
+        "nome": "Osteria Al Squero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.332608923726351, 45.43669939626417]
+      },
+      "properties": {
+        "nome": "Ristorante Da Raffaele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.346213201216814, 45.44063639377213]
+      },
+      "properties": {
+        "nome": "Trattoria Da Jonny"
+      }
+    }
+  ]
+}
