@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.255281342328683, 40.8505355367211]
+      },
+      "properties": {
+        "name": "Gino e Totò Sorbillo",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.263289468239368, 40.84992669843695]
+      },
+      "properties": {
+        "name": "L'Antica Pizzeria Da Michele",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.258021341253338, 40.851502748349034]
+      },
+      "properties": {
+        "name": "Pizzeria Di Matteo",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.249808325910507, 40.84477243062669]
+      },
+      "properties": {
+        "name": "Trattoria da Nennella",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.256387204634594, 40.84865519164438]
+      },
+      "properties": {
+        "name": "Tandem Ristorante",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.21988631706394, 40.829424249319786]
+      },
+      "properties": {
+        "name": "50 Kalò di Ciro Salvo",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.259431608718478, 40.84898316367279]
+      },
+      "properties": {
+        "name": "La Figlia del Presidente",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.256143195225247, 40.84589706057118]
+      },
+      "properties": {
+        "name": "Osteria La Chitarra",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.248506598923832, 40.82974225870055]
+      },
+      "properties": {
+        "name": "La Bersagliera 1919",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.248073998924317, 40.84116993758317]
+      },
+      "properties": {
+        "name": "Hosteria Toledo 1951",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.24634861056829, 40.85616661580911]
+      },
+      "properties": {
+        "name": "Pizzeria Starita a Materdei",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.24033651465607, 40.83768220159852]
+      },
+      "properties": {
+        "name": "Ristorante Mattozzi",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.256898383582115, 40.851016741991145]
+      },
+      "properties": {
+        "name": "Antica Trattoria Da Carmine",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.254907298924696, 40.85042656610615]
+      },
+      "properties": {
+        "name": "La Locanda del Grifo",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.251688624061053, 40.84953428381392]
+      },
+      "properties": {
+        "name": "Antica Pizzeria Port'Alba",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.252067425910376, 40.84099587144649]
+      },
+      "properties": {
+        "name": "Trattoria silk route",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.246762452896222, 40.83688203198591]
+      },
+      "properties": {
+        "name": "Pizzeria Brandi",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.229820985300197, 40.83508876805711]
+      },
+      "properties": {
+        "name": "Ristorante da Dora",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.251132554746414, 40.851257148753994]
+      },
+      "properties": {
+        "name": "Osteria da Carmela",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.267176810568166, 40.853591828474045]
+      },
+      "properties": {
+        "name": "Mimi alla Ferrovia",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.253888312417812, 40.85186224741974]
+      },
+      "properties": {
+        "name": "La Cantina di Via Sapienza",
+        "category": "ristoranti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.254531999812995, 40.85074995173105]
+      },
+      "properties": {
+        "name": "Pizzeria Vesi",
+        "category": "ristoranti"
+      }
+    }
+  ]
+}
