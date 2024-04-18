@@ -1,3 +1,6 @@
+Ecco il file con la sintassi corretta e le parentesi sistemate:
+
+```json
 {
   "type": "FeatureCollection",
   "features": [
@@ -211,4 +214,5 @@
         "name": "Basilica di San Lorenzo Maggiore"
       }
     }
-   
+  ]
+}
