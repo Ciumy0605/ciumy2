@@ -85,7 +85,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.328951115559462, 45.45045387162448]
+        "coordinates": [12.328617145637526, 45.446477988874385]
       },
       "properties": {
         "nome": "Osteria Anice Stellato"
@@ -125,7 +125,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.345403814911666, 45.44044323269378]
+        "coordinates": [12.345020881363201, 45.435827926987706]
       },
       "properties": {
         "nome": "Trattoria da Remigio"
@@ -155,7 +155,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.346213201216814, 45.44063639377213]
+        "coordinates": [12.347569799231103, 45.43676362839328]
       },
       "properties": {
         "nome": "Trattoria Da Jonny"
